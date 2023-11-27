@@ -7,4 +7,4 @@ Nobble ist ein Keyboard-ähnlich Human Interface Device, welches sich durch sein
 
 Diese Art von Workflow-Optimierung ist besonders effektiv für Anwendungen in den Bereichen des Videoschnitt, 3D-Design, Musikproduktion, Streaming, Programmierung und vielem mehr, aber auch in alltäglichen Situationen, wie der Steuerung von Multimediaplayback, Kommunikationssoftware und Gaming.
 
-Die komfortable Erstellung und Editierung von listen durch den nativen Desktop-Client, ermöglicht es dem Nutzer, seine Tastenbelegung für jede Anwendung zu speichern oder zu laden, ohne die Notwendigkeit, die Tasten selbst neu zu belegen.
+Die komfortable Erstellung und Editierung von Listen durch den nativen Desktop-Client, ermöglicht es dem Nutzer, seine Tastenbelegung für jede Anwendung zu speichern oder zu laden, ohne die Notwendigkeit, die Tasten selbst neu zu belegen.
